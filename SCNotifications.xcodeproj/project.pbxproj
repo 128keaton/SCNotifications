@@ -23,7 +23,7 @@
 		8ACB65B221051A0E004B9C5A /* SCNotifications.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = SCNotifications.plist; sourceTree = "<group>"; };
 		8ACB65B321051A19004B9C5A /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		8ACB65B421051A19004B9C5A /* Tweak.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Tweak.cpp; sourceTree = "<group>"; };
-		8ACB65B921051A29004B9C5A /* SCNotifications */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = SCNotifications; path = /Users/keatonburleson/Downloads/scnotifications/build/Debug/SCNotifications; sourceTree = "<absolute>"; };
+		8ACB65C22105218F004B9C5A /* SCNotifications */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = SCNotifications; path = /Users/keatonburleson/Downloads/scnotifications/build/Debug/SCNotifications; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 			);
 			name = SCNotifications;
 			productName = SCNotifications;
-			productReference = 8ACB65B921051A29004B9C5A /* SCNotifications */;
+			productReference = 8ACB65C22105218F004B9C5A /* SCNotifications */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
